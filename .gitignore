@@ -1,0 +1,15 @@
+# данные генерируются скриптом: python data_gen/generate.py
+data/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

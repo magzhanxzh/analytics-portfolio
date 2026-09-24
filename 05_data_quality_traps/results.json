@@ -1,0 +1,22 @@
+{
+  "rows_raw": 81915,
+  "keys": 72240,
+  "extra_versions": 9675,
+  "extra_versions_share": 0.13392857142857142,
+  "dup_revenue_inflation": 0.13638966819667786,
+  "dup_orders_inflation": 0.1385273335812569,
+  "wrong_key_lost_orders": 1500,
+  "wrong_key_lost_share": 0.020764119601328904,
+  "unpaid_overstated": 4.9411296738265715,
+  "mb_ppk_jump": 5.992669450017286,
+  "mb_share_price_before": 0.3085757116721438,
+  "mb_share_price_after": 0.7213347865861994,
+  "mb_share_orders_before": 0.298649412473201,
+  "mb_share_orders_after": 0.302768340784297,
+  "revenue_inflation_since_may": 1.4754536389964579,
+  "paid_95_day": 25,
+  "aug_paid_to_booked": 0.9325648989875706,
+  "sep_paid_to_booked": 0.5046064108155267,
+  "checks_total": 8,
+  "checks_failed_raw": 3
+}
